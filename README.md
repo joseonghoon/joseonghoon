@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 111
+- 📫 How to reach me 11
 
 
 <!---
