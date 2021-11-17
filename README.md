@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on .
 - 📫 Ho
-12
 
 <!---
 joseonghoon/joseonghoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
